@@ -474,6 +474,7 @@
 #### D individuals
 * Daily JS https://medium.com/dailyjs
 * Daily Tech Video http://dailytechvideo.com/
+* Dan Abramov https://overreacted.io/
 * Dan Luu https://danluu.com/
 * Daniel Doubrovkine (dB.) http://code.dblock.org/
 * Daniel Schmidt https://medium.com/@dschmidt1992
