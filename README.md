@@ -375,6 +375,7 @@
 #### V companies
 * Vena Solutions https://engineering.vena.io/
 * Venmo http://blog.venmo.com/?category=Engineering
+* Vercel https://vercel.com/blog
 * VersionEye https://blog.versioneye.com/
 * Vevo http://blog.vevo.com/
 * Viget https://www.viget.com/articles/category/code#articles
