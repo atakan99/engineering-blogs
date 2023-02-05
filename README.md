@@ -487,6 +487,7 @@
 * Dereuromark http://www.dereuromark.de/
 * Discover Meteor https://www.discovermeteor.com/blog
 * Domenico Luciani https://domenicoluciani.com
+* Dominik Dorfmeister https://tkdodo.eu/blog/
 * Dot Dev (.dev) https://dotdev.co
 * Dragan Djuric http://dragan.rocks
 * Dragan Gaic http://www.gajotres.net/
